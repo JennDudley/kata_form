@@ -1,4 +1,4 @@
-# This is a simple website Kata
+# Simple website Kata
  It shows how to make simple form create links to other pages and
  It also shows how to write basic test with RSpec, TDD style.
 
